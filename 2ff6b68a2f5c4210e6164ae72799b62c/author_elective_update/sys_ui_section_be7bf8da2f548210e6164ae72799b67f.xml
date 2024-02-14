@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="be7bf8da2f548210e6164ae72799b67f" sys_domain="global" table="x_1316288_basic_pr_products" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 19:25:37</sys_created_on>
+            <sys_id>22b381162f948210e6164ae72799b63e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">be7bf8da2f548210e6164ae72799b67f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 19:25:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 19:25:37</sys_created_on>
+            <sys_id>a2b381162f948210e6164ae72799b63e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">be7bf8da2f548210e6164ae72799b67f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 19:25:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 19:25:37</sys_created_on>
+            <sys_id>26b381162f948210e6164ae72799b63e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">be7bf8da2f548210e6164ae72799b67f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 19:25:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1316288_basic_pr_products</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 18:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be7bf8da2f548210e6164ae72799b67f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1316288_basic_pr_products</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope>
+            <sys_update_name>sys_ui_section_be7bf8da2f548210e6164ae72799b67f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 18:49:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</application>
+        <file_path/>
+        <instance_id>6f7dedaedb2a5d9452dd2f17d4961910</instance_id>
+        <instance_name>dev140809</instance_name>
+        <name>sys_ui_section_be7bf8da2f548210e6164ae72799b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="be7bf8da2f548210e6164ae72799b67f" sys_domain="global" table="x_1316288_basic_pr_products" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-13 19:25:37</sys_created_on><sys_id>22b381162f948210e6164ae72799b63e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">be7bf8da2f548210e6164ae72799b67f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 19:25:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>quantity</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-13 19:25:37</sys_created_on><sys_id>a2b381162f948210e6164ae72799b63e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">be7bf8da2f548210e6164ae72799b67f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 19:25:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-13 19:25:37</sys_created_on><sys_id>26b381162f948210e6164ae72799b63e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">be7bf8da2f548210e6164ae72799b67f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 19:25:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1316288_basic_pr_products</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-13 18:49:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>be7bf8da2f548210e6164ae72799b67f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1316288_basic_pr_products</sys_name><sys_overrides/><sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package><sys_policy/><sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope><sys_update_name>sys_ui_section_be7bf8da2f548210e6164ae72799b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 18:49:36</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1640326649</payload_hash>
+        <record_name>Products</record_name>
+        <reverted_from/>
+        <source>3bf67e422f9c4210e6164ae72799b6fd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 19:25:37</sys_created_on>
+        <sys_id>62b381162f948210e6164ae72799b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da3ee902d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 19:25:37</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2ab381160d948210d446c0eeb116d43f</update_guid>
+        <update_guid_history>2ab381160d948210d446c0eeb116d43f:-1640326649,fd0105126c948210b6d46b7feacf7e7c:-1559360988,21de74defe5482106f176e68fbdaa424:-1640326649,8c2d785e9254821053ad2ba3504101a9:1457438405,8a6cbc1eed548210b0ace414e00df98a:1589891880,c77b301e8a548210283b5b3fa1831c4b:300407780,cf7bf8da3854821031f5201ccaabb282:-1132405500</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 19:27:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1f5ed717e80b4c76a4bb32851a442624</sys_id>
+        <sys_metadata>be7bf8da2f548210e6164ae72799b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1316288_basic_pr_products</sys_name>
+        <sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package>
+        <sys_parent display_value="Products">ee4e4fc62fdc4210e6164ae72799b6c7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope>
+        <sys_scope_delete display_value="">2ef6e9829a344a8f901281fc8fdafbf9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_be7bf8da2f548210e6164ae72799b67f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_be7bf8da2f548210e6164ae72799b67f">62b381162f948210e6164ae72799b640</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 19:27:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

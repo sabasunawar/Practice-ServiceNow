@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 09:16:14</sys_created_on>
+        <sys_id>cc4832c22f9c4210e6164ae72799b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1316288_basic_pr_info_table.x_1316288_basic_pr.tester</sys_name>
+        <sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope>
+        <sys_security_acl display_value="x_1316288_basic_pr_info_table">844832c22f9c4210e6164ae72799b6fd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cc4832c22f9c4210e6164ae72799b6ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 09:16:14</sys_updated_on>
+        <sys_user_role display_value="x_1316288_basic_pr.tester" name="x_1316288_basic_pr.tester">0a17b6022f9c4210e6164ae72799b68b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</application>
+        <file_path/>
+        <instance_id>6f7dedaedb2a5d9452dd2f17d4961910</instance_id>
+        <instance_name>dev140809</instance_name>
+        <name>sys_security_acl_role_cc4832c22f9c4210e6164ae72799b6ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-13 09:16:14</sys_created_on><sys_id>cc4832c22f9c4210e6164ae72799b6ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1316288_basic_pr_info_table.x_1316288_basic_pr.tester</sys_name><sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package><sys_policy/><sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope><sys_security_acl display_value="x_1316288_basic_pr_info_table">844832c22f9c4210e6164ae72799b6fd</sys_security_acl><sys_update_name>sys_security_acl_role_cc4832c22f9c4210e6164ae72799b6ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 09:16:14</sys_updated_on><sys_user_role display_value="x_1316288_basic_pr.tester" name="x_1316288_basic_pr.tester">0a17b6022f9c4210e6164ae72799b68b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1420896250</payload_hash>
+        <record_name>x_1316288_basic_pr_info_table.x_1316288_basic_pr.tester</record_name>
+        <reverted_from/>
+        <source>3bf67e422f9c4210e6164ae72799b6fd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 09:16:14</sys_created_on>
+        <sys_id>044872c22f9c4210e6164ae72799b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da1c0a9500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 09:16:14</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>484872c2829c4210e1a23f291731bd01</update_guid>
+        <update_guid_history>484872c2829c4210e1a23f291731bd01:-1420896250</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1316288_basic_pr_info_table.x_1316288_basic_pr.tester">386687022fdc4210e6164ae72799b66a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 10:18:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>79bd6b3b39394c7faebb2f13f15cead9</sys_id>
+        <sys_metadata>cc4832c22f9c4210e6164ae72799b6ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1316288_basic_pr_info_table.x_1316288_basic_pr.tester</sys_name>
+        <sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package>
+        <sys_parent display_value="">844832c22f9c4210e6164ae72799b6fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope>
+        <sys_scope_delete display_value="">2ef6e9829a344a8f901281fc8fdafbf9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_cc4832c22f9c4210e6164ae72799b6ff</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_cc4832c22f9c4210e6164ae72799b6ff">044872c22f9c4210e6164ae72799b602</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 10:18:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

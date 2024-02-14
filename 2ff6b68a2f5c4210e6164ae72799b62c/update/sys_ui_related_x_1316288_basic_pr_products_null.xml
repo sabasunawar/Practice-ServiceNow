@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1316288_basic_pr_products" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Products - Default view" name="x_1316288_basic_pr_products" related_list="NULL" sys_domain="global" view="Default view">18bcb01e2f548210e6164ae72799b61f</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 18:54:53</sys_created_on>
+            <sys_id>18bcf05e2f548210e6164ae72799b615</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 18:54:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Products - Default view</calculated_name>
+            <filter/>
+            <name>x_1316288_basic_pr_products</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 18:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18bcb01e2f548210e6164ae72799b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Products - Default view</sys_name>
+            <sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope>
+            <sys_update_name>sys_ui_related_x_1316288_basic_pr_products_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 18:54:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="842d785e2f548210e6164ae72799b660" sys_domain="global" table="x_1316288_basic_pr_products" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 19:25:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6b381162f948210e6164ae72799b61b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1316288_basic_pr_products" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">842d785e2f548210e6164ae72799b660</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">9eb381162f948210e6164ae72799b618</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 19:27:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 18:56:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>442d785e2f548210e6164ae72799b664</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1316288_basic_pr_products" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">842d785e2f548210e6164ae72799b660</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1316288_basic_pr_products" sys_domain="global" view="Default view">c82d785e2f548210e6164ae72799b65f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 19:27:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1316288_basic_pr_products</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-13 18:56:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>842d785e2f548210e6164ae72799b660</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1316288_basic_pr_products</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Basic Practice" source="x_1316288_basic_pr">2ff6b68a2f5c4210e6164ae72799b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Basic Practice">2ff6b68a2f5c4210e6164ae72799b62c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_842d785e2f548210e6164ae72799b660</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-13 18:56:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

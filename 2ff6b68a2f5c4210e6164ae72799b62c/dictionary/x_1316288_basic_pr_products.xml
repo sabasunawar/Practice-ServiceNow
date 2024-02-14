@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" db_object_id="ee4e4fc62fdc4210e6164ae72799b6c7" label="Products" max_length="40" name="x_1316288_basic_pr_products" type="collection">
+        <element default="Enter pls....." label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="New Audio" max_length="40" name="u_audio_1" read_only="true" type="audio"/>
+    </element>
+</database>
